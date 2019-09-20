@@ -1,0 +1,43 @@
+@charset "gbk";
+*{margin: 0;padding: 0;font-family: 'Î¢ÈíÑÅºÚ','ËÎÌå';}
+body {background: #FFF;color:#000;margin: 0 auto;padding: 0;min-width: 320px;max-width:640px;font-size: 0.16rem;}
+a {text-decoration:none;color: #FFF;}
+li {list-style: none;}
+ul {margin: 0;padding: 0;}
+img {margin: 0;padding: 0;border: 0px;outline-width:0px;  vertical-align:top;}
+input{margin: 0;padding: 0;border: 0px;}
+.clear{clear:both;}
+.fl {float: left;}
+
+.banner img{width:6.4rem;display: block;}
+.tit_01 {text-align: center;padding: 0.2rem 0;}
+.tit_01 img {width: 5.72rem;}
+.butt {text-align: center;margin-top: 0.2rem;}
+.butt a {display: inline-block;width: 2rem;line-height: 0.35rem;text-align: center;font-size: 0.18rem;white-space: nowrap;word-spacing: normal;letter-spacing: normal;overflow: hidden;text-overflow:ellipsis;border-radius: 0.1rem;}
+.bt1 a {background-color: #ef00c2;color: #FFF;margin-left: 0.1rem;}
+.p_01 {width: 6rem;margin-left: 0.2rem;line-height: 0.28rem;}
+.gUl1 {width: 6rem;margin-left: 0.2rem;margin-top: 0.2rem;}
+.gUl1 ul li {float: left;margin-left: 0.227rem;width: 2.66rem;}
+.gUl1 ul li img {width: 2.66rem;}
+.gUl2 {margin-top: 0.2rem;}
+.gUl2 ul li {float: left;width: 3.01rem;margin-left: 0.127rem;}
+.gUl2 ul li img {width: 3.01rem;}
+.tit_02 {text-align: center;padding: 0.1rem 0;}
+.gUl3 {margin-top: 0.15rem;}
+.gUl3 ul li {float: left;margin-left: 0.14rem;}
+.mt1 {margin-left: 0.14rem;}
+.mt2 {margin-left: 0.05rem;}
+.tit_02 {font-size: 0.3rem;color: #a50800;}
+.tit_02 span {font-weight: bold;}
+.gUl4 {margin-top: 0.2rem;}
+.gUl4 ul li {float: left;width: 2.92rem;margin-left: 0.187rem;}
+.gUl4 ul li p {line-height: 0.5rem;text-align: center;}
+.gUl4 ul li img {width: 2.92rem;}
+.tit_03 {width: 6rem;margin-left: 0.2rem;}
+.tit_03 span {display: inline-block;width: 1.2rem;color: #FFF;background-color: #3eb1e8;text-align: center;font-weight: bold;font-size: 0.18rem;line-height: 0.35rem;margin-left: 0.24rem;}
+.p_02 {text-align: center;}
+.zy ul li {float: left;background-color: #eaeaea;width: 2.92rem;margin-left: 0.187rem;text-align: center;padding-bottom: 0.2rem;margin-top: 0.2rem;}
+.zy ul li h2 {font-size: 0.21rem;line-height: 0.39rem;color: #424141;}
+.zy ul li p {line-height: 0.36rem;}
+.zy ul li span {background-color: #e77a19;color: #FFF;padding: 0.05rem 0.27rem;margin-left: 0.1rem;}
+.zy ul li img {width: 2.92rem;}
